@@ -33,7 +33,7 @@ Achieving a 100% score, I gained practical knowledge and confidence in handling 
 ### Evidence:
 [View Video](https://github.com/wil-it2025/cv-tutorial-Asiphezi02-matiso/blob/main/VID-20250321-WA0009.mp4)
 
-### Reflection (STAR Technique)
+### Reflection:
 #### Situation:
 As part of the training, I did a mock interview video to simulate a real interview experience, which allowed me to practice  in a controlled and formal setting environment.  
 #### Task:
