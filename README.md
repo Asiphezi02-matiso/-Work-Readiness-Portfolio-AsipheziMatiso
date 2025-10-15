@@ -1,7 +1,7 @@
 # Asiphezi Matiso 222285109 Digital Portfolio
 ### Welcome to my portfolio as a third-year ICT student specializing in Communication Networks. This portfolio showcases my learning and development throughout the Work Readiness Training programme.
 
-# 1. Business Communication
+# 1.Business Communication
 ### Evidence:
 <img width="1315" height="603" alt="image" src="https://github.com/user-attachments/assets/10029054-d0f0-42aa-a2c8-194dac5f1407" />
 
@@ -15,11 +15,10 @@ I actively completed the quizzes, reviewed module content, and reflected on real
 #### Result:
 I achieved a 100% score on the module, and I now have a stronger understanding of professional communication, which will help me present myself clearly and confidently in the workplace.
 
----
+# 2.Interview Skills
+### Evidence:
+<img width="1298" height="577" alt="image" src="https://github.com/user-attachments/assets/ed2d108f-b5fc-4f32-92e6-589dd4d99100" />
 
-## 🎯 2. Interview Skills
-
-### 📂 Evidence
 - Completed Interview Skills module: **100% score**  
 - Quiz results covering job interview purposes, CAR method, researching companies, and handling common interview questions.
 
