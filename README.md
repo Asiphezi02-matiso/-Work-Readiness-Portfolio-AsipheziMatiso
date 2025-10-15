@@ -4,6 +4,7 @@
 # 1. Business Communication
 ### Evidence:
 <img width="1315" height="603" alt="image" src="https://github.com/user-attachments/assets/10029054-d0f0-42aa-a2c8-194dac5f1407" />
+
 ### 🧠 Reflection (STAR Technique)
 **Situation:** During the Work Readiness Training, I completed the Business Communication module to improve my workplace communication skills.  
 **Task:** My task was to understand the key principles of effective business communication, including email etiquette, virtual meeting norms, and non-verbal cues.  
