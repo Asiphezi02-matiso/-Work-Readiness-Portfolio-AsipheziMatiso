@@ -1,11 +1,11 @@
-# 💼 Digital Portfolio – Work Readiness Training
+#  Digital Portfolio – Work Readiness Training
 
 This digital portfolio showcases my learning and development throughout the **Work Readiness Training** programme.  
 Each section includes **evidence** of participation and a **reflection** using the **STAR Technique** (Situation, Task, Action, Result).
 
 ---
 
-## 🗣️ 1. Business Communication
+##  1. Business Communication
 
 ### 📂 Evidence
 - Completed Business Communication module: **100% score**  
