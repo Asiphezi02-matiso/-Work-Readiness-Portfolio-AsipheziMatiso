@@ -1,10 +1,10 @@
 # Asiphezi Matiso 222285109 Digital Portfolio
 ### Welcome to my portfolio as a third-year ICT student specializing in Communication Networks. This portfolio showcases my learning and development throughout the Work Readiness Training programme.
----
 
-##  1. Business Communication
+# 1. Business Communication
+### Evidence:
+<img width="1315" height="603" alt="image" src="https://github.com/user-attachments/assets/10029054-d0f0-42aa-a2c8-194dac5f1407" />
 
-### 📂 Evidence
 - Completed Business Communication module: **100% score**  
 - Quiz results showing understanding of verbal, non-verbal, formal communication, email tone, and video conferencing etiquette.
 
