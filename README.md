@@ -5,11 +5,15 @@
 ### Evidence:
 <img width="1315" height="603" alt="image" src="https://github.com/user-attachments/assets/10029054-d0f0-42aa-a2c8-194dac5f1407" />
 
-### 🧠 Reflection (STAR Technique)
-**Situation:** During the Work Readiness Training, I completed the Business Communication module to improve my workplace communication skills.  
-**Task:** My task was to understand the key principles of effective business communication, including email etiquette, virtual meeting norms, and non-verbal cues.  
-**Action:** I actively completed the quizzes, reviewed module content, and reflected on real-world business scenarios.  
-**Result:** I achieved a 100% score on the module, and I now have a stronger understanding of professional communication, which will help me present myself clearly and confidently in the workplace.
+### Reflection (STAR Technique)
+#### Situation:
+During the Work Readiness Training, I completed the Business Communication module to improve my workplace communication skills.  
+#### Task:
+My task was to understand the key principles of effective business communication, including email etiquette, virtual meeting norms, and non-verbal cues.  
+####Action:
+I actively completed the quizzes, reviewed module content, and reflected on real-world business scenarios.  
+### Result:
+I achieved a 100% score on the module, and I now have a stronger understanding of professional communication, which will help me present myself clearly and confidently in the workplace.
 
 ---
 
