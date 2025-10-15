@@ -1,5 +1,5 @@
 # Asiphezi Matiso 222285109 Digital Portfolio
-### Welcome to my portfolio as a third-year ICT student specializing in Communication Networks. This portfolio showcases my learning and development throughout the Work Readiness Training programme.
+### Welcome to my portfolio as a third-year ICT student specializing in Communication Networks. This digital portfolio demonstrates my development in key work readiness competencies through structured training, including communication, interview preparation, professional networking, and workplace etiquette. It highlights my learning journey and practical application of skills in a professional context.
 
 # 1.Business Communication
 ### Evidence:
